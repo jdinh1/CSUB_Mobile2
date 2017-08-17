@@ -18,6 +18,7 @@ A Android mobile application designed for CSUB as part of a senior project. Its 
 3. Kevin Jenkin
 4. Quy Nguyen
 
+<img src="http://i.imgur.com/19J0rv4.png" width="300">
 ![](http://i.imgur.com/19J0rv4.png | width=100)
 ![](http://i.imgur.com/lGHldpA.png)
 ![](http://i.imgur.com/hhUZmKF.jpg)
