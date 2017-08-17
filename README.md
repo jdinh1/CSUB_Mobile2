@@ -2,7 +2,7 @@
 A Android mobile application designed for CSUB as part of a senior project. Its purpose is to provide students and visitors with information about the university.
 
 ## Features
-1. Campus Map
+1. Campus Map (Get Direction, and Interactive buildings grid)
 2. News
 3. Events
 4. Directory
