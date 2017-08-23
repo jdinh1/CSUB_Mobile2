@@ -20,6 +20,6 @@ A Android mobile application designed for CSUB as part of a senior project. Its 
 
 <img src="http://i.imgur.com/19J0rv4.png" width="280">    <img src="http://i.imgur.com/lGHldpA.png" width="280"> <img src="http://i.imgur.com/hhUZmKF.jpg" width="280"> 
 ----------------------------------------------------------------------------------------------------------------
-<img src="http://i.imgur.com/0UDDa39.png" width="280"> <img src="http://i.imgur.com/3d17z7l.png" width="280">    <img src="http://i.imgur.com/dK3m8CQ.png" width="280">
+<img src="http://i.imgur.com/0UDDa39.png" width="280"> <img src="http://i.imgur.com/3d17z7l.png" width="280">    <img src="http://i.imgur.com/e7S9QKb.png" width="280">
 ----------------------------------------------------------------------------------------------------------------
 
